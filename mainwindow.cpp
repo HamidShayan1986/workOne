@@ -8,10 +8,10 @@ MainWindow::MainWindow(QWidget *parent) :
     ui->setupUi(this);
 
 
-    // hi hamid shayan
-    //     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
+    // hi hamid shayan 6818
+// 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
 
-    // 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
+    //  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
 
 
 
